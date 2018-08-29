@@ -27,3 +27,8 @@ Sign in with your Google Account:
 Go to this link : https://takeout.google.com/settings/takeout
 for this Project you only need chrome history in JSON format!
 you can also Include Youtube history also ;)
+
+# WordCloud
+This file contains the code and chorme History . So By looking At the word Cloud We can say that , I Use Google alot ;)
+And since i am using MacOsX i search alot about it !
+
