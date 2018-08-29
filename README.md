@@ -1,5 +1,5 @@
 # Google_Search_history_wordcloud-
-Creating a wordCloud from the Search History Of Google
+Creating a wordCloud from the USER's Google Search History
 
 IN This PROJECT we are going to create a search history  wordcloud of a user .
 The Aim of This project is to analysis of the Search history Using a effective and more Simplified Way !!
