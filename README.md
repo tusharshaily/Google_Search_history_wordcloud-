@@ -13,12 +13,12 @@ The operating System I am using is Mac-osx High Serria .
 First If you Dont have python3 then Install it :
 In Macos you can download it with the Help of HomeBrew: https://brew.sh/
 Install the Dependencies using pip3 command:
-pip3 install numpy
-pip3 install matplotlib
+pip3 install numpy,
+pip3 install matplotlib,
 pip3 install pillow
 
-is the following command are showing error than you can use 'SUDO' eg
-Sudo pip3 install numpy
+if the following command are showing error than you can use 'SUDO'  eg
+sudo pip3 install numpy
 
 # If you need any help , email me ;)
 
